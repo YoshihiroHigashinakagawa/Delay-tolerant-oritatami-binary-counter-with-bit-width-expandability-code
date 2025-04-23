@@ -1,5 +1,5 @@
-# Delay-tolerant-oritatami-binary-counter-with-bit-width-expandability-code
-This site contains the code for Delay-tolerant oritatami binary counter with bit-width expandability.
+# Delay-tolerant-oritatami-binary-counter-code
+This site contains the code for Delay-tolerant oritatami binary counter.
 
 The counter for delay 3
 .os
