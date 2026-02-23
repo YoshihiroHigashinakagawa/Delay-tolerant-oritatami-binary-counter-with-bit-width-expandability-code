@@ -29,7 +29,8 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 - Elastic Glider(EG) vs Glider(G) 
 - start from Top(top) vs Bottom(bot)
 - delay 3 vs delay 4
-→ HA_*p_****.os
+
+→ HA_\*p_\*\*\*\*.os
 
 ### The two shrunk conformations of the proposed elastic glider tolerant to the delays 3 and 4
 The two shrunk conformations of the proposed elastic glider tolerant to the delays 3 and 4.jpg
