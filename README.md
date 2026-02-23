@@ -44,4 +44,4 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 → README.md
 
 ---
-These systems run on [Simple OS simulator](http://perso.ens-lyon.fr/nicolas.schabanel/OSsimulator/).
+## These systems run on [Simple OS simulator](http://perso.ens-lyon.fr/nicolas.schabanel/OSsimulator/).
