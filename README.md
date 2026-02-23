@@ -40,7 +40,7 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 
 ---
 ## /
-### File Directory　for the counter
+### File Directory for the counter
 → README.md
 
 ---
