@@ -26,9 +26,9 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 ---
 ## /Half Adder
 ### Half Adder 8 pattern
+- delay 3 vs delay 4
 - Elastic Glider(EG) vs Glider(G) 
 - start from Top(top) vs Bottom(bot)
-- delay 3 vs delay 4
 
 → HA_\*p_\*\*\*\*.os
 
