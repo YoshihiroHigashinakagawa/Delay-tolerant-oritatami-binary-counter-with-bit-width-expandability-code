@@ -33,10 +33,10 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 → HA_\*p_\*\*\*\*.os
 
 ### The two shrunk conformations of the proposed elastic glider tolerant to the delays 3 and 4
-The two shrunk conformations of the proposed elastic glider tolerant to the delays 3 and 4.jpg
+→ The two shrunk conformations of the proposed elastic glider tolerant to the delays 3 and 4.jpg
 
 ## /Half Adder/Cutting
-The figures, if you cut or mv the bond.
+### The figures, if you cut or mv the bond.
 
 ---
 ## /
