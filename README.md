@@ -3,11 +3,17 @@ This site contains the code for Delay-tolerant oritatami binary counter and Half
 
 ---
 ## /Delay-tolerant binary counter
+### A block automaton of the proposed counter
+→ Annotated Delay-tolerant binary counter simulation.pdf
+
 ### The binary counter for delay 3  
 → Delay-tolerant binary counter-delay3.os
 
 ### The binary counter for delay 4  
 → Delay-tolerant binary counter-delay4.os
+
+### The figure that the simulation of Delay-tolerant binary counter
+→ Delay-tolerant binary counter.pdf
 
 ---
 ## /F-free fixed bit-width shift-driven counter
